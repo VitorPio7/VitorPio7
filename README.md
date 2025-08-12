@@ -29,8 +29,8 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Project Name 1** |I made a Quiz about any topic with React and others Api's. | `React` | [🔗 Live](link-to-live-demo) \| [🐱 Repo](https://github.com/VitorPio7/QuizTest) |
-| **Project Name 2** | A brief but compelling description of your project, highlighting its purpose and key features. | `Next.js` `TypeScript` `PostgreSQL` | [🔗 Live]([link-to-live-demo](https://github-production-user-asset-6210df.s3.amazonaws.com/106124241/388721922-df342445-2085-4980-8775-1242a5bd41d1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250812T163008Z&X-Amz-Expires=300&X-Amz-Signature=de0f79cff798e6fa68bc37cfec937353865e6eefca50c80493316bb66232475e&X-Amz-SignedHeaders=host)) \| [🐱 Repo](link-to-repo) |
+| **BachQuizz** |I made a Quiz about any topic with React and others Api's. | `React` | [🔗 Live](link-to-live-demo) \| [🐱 Repo](https://github.com/VitorPio7/QuizTest) |
+| **React Library** | With this library the dev has the opportunity to reuse some badges and cards in react. | `React` | [🔗 Live]([https://github.com/VitorPio7/Library](https://github-production-user-asset-6210df.s3.amazonaws.com/106124241/388721922-df342445-2085-4980-8775-1242a5bd41d1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250812T163008Z&X-Amz-Expires=300&X-Amz-Signature=de0f79cff798e6fa68bc37cfec937353865e6eefca50c80493316bb66232475e&X-Amz-SignedHeaders=host)) \| [🐱 Repo](https://github.com/VitorPio7/Library) |
 | **Project Name 3** | A brief but compelling description of your project, highlighting its purpose and key features. | `Python` `Django` `AWS S3` | [🔗 Live](link-to-live-demo) \| [🐱 Repo](link-to-repo) |
 
 ---
