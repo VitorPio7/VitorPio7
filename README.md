@@ -1,6 +1,8 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Pomodoro Timer** |This project was built to practice web development fundamentals and create a simple tool to help manage time and stay focused during tasks. | `React with TS` | [🔗 Live](https://pomodoro-timer-iag8.vercel.app/) \| [🐱 Repo](https://github.com/VitorPio7/pomodoro-timer) |
+
 | **BachQuizz** |An interactive quiz application built with React and Vite. This project tests your knowledge through a series of multiple-choice questions and showcases core React concepts like complex state management, conditional rendering, and dynamic data handling.. | `React` | [🔗 Live](link-to-live-demo) \| [🐱 Repo](https://github.com/VitorPio7/QuizTest) |
 | **React Library** | With this library the dev has the opportunity to reuse some badges and cards in react. | `React` | [🔗 Live]([https://github.com/VitorPio7/Library](https://github-production-user-asset-6210df.s3.amazonaws.com/106124241/388721922-df342445-2085-4980-8775-1242a5bd41d1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250812T163008Z&X-Amz-Expires=300&X-Amz-Signature=de0f79cff798e6fa68bc37cfec937353865e6eefca50c80493316bb66232475e&X-Amz-SignedHeaders=host)) \| [🐱 Repo](https://github.com/VitorPio7/Library) |
 | **TaskFlow** | askFlow is a task management application designed to help users efficiently organize and manage their daily activities. Built using React for a dynamic user interface and Tailwind CSS for modern, responsive styling, TaskFlow offers the following features. | `React` `Tailwind Css`  | [🔗 Live](https://taskflow007.netlify.app/) \| [🐱 Repo](https://github.com/VitorPio7/TaskFlow) |
